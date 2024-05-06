@@ -25,6 +25,7 @@
 ### 👉 Programming languages
 
 <p align="left"> 
+  <img alt="CSharp" src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=csharp&logoColor=white"> 
   <img alt="CSharp" src="https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white"> 
   <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"> 
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
