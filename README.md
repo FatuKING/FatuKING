@@ -36,7 +36,7 @@
   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
   <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
-   <img alt="Bootstrap" src="https://img.shields.io/badge/Tailwindcss-%38BDF8.svg?style=flat&logo=tailwindcss&logoColor=white"/>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
 </p>
 
