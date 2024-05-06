@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Facundo <a href="https://emoji.gg/emoji/89104-blobcat-hug"><img src="https://cdn3.emoji.gg/emojis/89104-blobcat-hug.png" width="32px" height="32px" alt="blobcat_hug"></a></h1>
+<h1 align="center">Hi 👋, I'm Facundo <img src="https://cdn3.emoji.gg/emojis/89104-blobcat-hug.png" width="32px" height="32px" alt="blobcat_hug"></h1>
 <h3 align="center">A passionate software developer Jr, from Argentina</h3>
 
 - 🔭 I’m currently working on my **Python Course**
