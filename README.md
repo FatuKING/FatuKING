@@ -25,10 +25,9 @@
 ### 👉 Programming languages
 
 <p align="left"> 
-
+   <img alt="Java" src="https://img.shields.io/badge/C#-%23007396.svg?logo=c#&logoColor=white"> 
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-  <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=jdk&logoColor=white">
-   
+  <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">  
 </p>
 
 ### 👉 Frontend Development
