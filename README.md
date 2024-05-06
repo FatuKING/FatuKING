@@ -51,12 +51,4 @@
   <img alt="Netlify" src ="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
  </p>
 <br/>
-
-## 📊 Github Stats
-
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=FatuKING&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatuKING&theme=react&layout=compact" />
-</p>
-
 ------
