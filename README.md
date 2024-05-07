@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Facundo <img src="https://cdn3.emoji.gg/emojis/89104-blobcat-hug.png" height="32px" alt="blobcat_hug"></h1>
-<h3 align="center">A passionate software developer Jr, from Argentina</h3>
+<h3 align="center">Software developer Jr, from Argentina</h3>
 
-- 🔭 I’m currently working on my **Python Course**
+- 🔭 I’m currently studying **software development**
 
-- 🌱 I’m currently learning **Python, HTML5 and CSS3**
+- 🌱 I’m currently working on **my projects for my portfolio**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
 - 📫 How to reach me: **cozzanifacundo@gmail.com**
 
-- ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
+- ⚡ Visit my website at **www.facundocozzani.me**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
