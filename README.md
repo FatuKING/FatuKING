@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **cozzanifacundo@gmail.com**
 
-- ⚡ Visit my website at **www.facundocozzani.me**
+- ⚡ Visit my website at: **www.facundocozzani.me**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
